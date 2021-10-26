@@ -11,6 +11,7 @@
   <hr>
   <div>
       <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=Linux&logoColor=white" />  </a>
   </div>
   <hr>
   <div>
