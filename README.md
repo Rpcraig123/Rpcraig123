@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rpcraig123&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=ayu-mirage" />  </a><br>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rpcraig123&layout=compact&theme=ayu-mirage&hide=python,ejs" /></a> 
