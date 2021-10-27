@@ -5,7 +5,7 @@
   <div>
     <a href="https://www.ryancraigdev.com/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/ryancraigeit/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-    <a href="https://github.com/Rpcraig123"><img src="https://img.shields.io/github/followers/mlackey9601?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
+    <a href="https://github.com/Rpcraig123"><img src="https://img.shields.io/github/followers/Rpcraig123?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
     <a href="mailto: Ryanpcraig1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
   <hr>
